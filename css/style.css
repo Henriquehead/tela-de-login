@@ -106,10 +106,16 @@ input[type="submit"]:hover {
     margin: 0 5px;
 }
 
-.bi-facebook {
+.fa-facebook-f {
     background-color: #3b5998;
 }
 
-.bi-instagram {
+.fa-linkedin {
     background-color: #0077b5;
 }
+
+  /* Registrar */
+
+#register-container p{
+    margin-bottom: 10px;
+}  
